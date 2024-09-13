@@ -1,7 +1,7 @@
 # Eat-n-Split
 A helpful app that makes your bill splitting with your friends much easier. </br>
 Checkpoints while developing this app: </br>
--Evolving my props and states management </br>
+-Evolving my props and states management using Key Prop (as unique Instance identifier) and as State Reset (Changing Key) </br>
 -More children prop as any JSX Markup </br>
 -Creating reusable components such as Friend Componens & Button component with different CSS styling properties such as BackgroundColor, text Color or Children </br>
 -Handle UI Components display based on state (hidden/not) </br>
